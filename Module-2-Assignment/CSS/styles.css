@@ -37,15 +37,15 @@ span {
   width: 30%;
   text-align: center;
 }
-span.is-red {
-  background-color: red;
-}
-span.is-yellow{
-  background-color: yellow;
-  color: white;
-}
 span.is-pink {
   background-color: pink;
+}
+span.is-red {
+  background-color: red;
+  color: white;
+}
+span.is-yellow {
+  background-color: yellow;
 }
 
 /********** The browser should display a desktop version of the site when the width 
