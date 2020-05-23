@@ -40,12 +40,12 @@ span {
 span.is-red {
   background-color: red;
 }
-span.is-blue {
-  background-color: blue;
+span.is-yellow{
+  background-color: yellow;
   color: white;
 }
-span.is-purple {
-  background-color: purple;
+span.is-pink {
+  background-color: pink;
 }
 
 /********** The browser should display a desktop version of the site when the width 
