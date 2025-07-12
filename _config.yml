@@ -1,1 +1,7 @@
-theme: jekyll-theme-time-machine
+title: Babar Ali
+email: babarburiro@gmail.com
+baseurl: "" # keep it empty unless in subdirectory
+url: "https://babarburiro.github.io" # replace with your username
+theme: minima
+plugins:
+  - jekyll-feed
