@@ -2,7 +2,7 @@
 title: Babar Ali - Freelance AI Engineer
 email: babarburiro@gmail.com
 baseurl: ""
-url: "https://bababuriro.github.io"
+url: "https://babarburiro.github.io"
 theme: minima
 ---
 
@@ -19,6 +19,24 @@ theme: minima
 </header>
 
 <main class="space-y-24 py-16 px-6 max-w-5xl mx-auto">
+
+  <section class="animate-slide-up">
+    <h2 class="text-4xl font-bold mb-6 text-white">About Me</h2>
+    <p class="text-gray-300 text-lg leading-relaxed">I’m a freelance AI engineer with 3+ years of experience in LLM agents, RAG pipelines, ERP systems, and predictive modeling. I've worked remotely with teams in Pakistan, Singapore, and the U.S. to build AI-powered systems that solve real business problems. My stack includes Python, LangChain, Django, AWS, Oracle Apex, and more.</p>
+  </section>
+
+  <section class="animate-fade-in bg-gray-800 p-8 rounded-2xl shadow-xl">
+    <h2 class="text-4xl font-bold mb-6 text-white">Services</h2>
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-6 text-lg text-gray-300">
+      <div>🤖 AI Agent Development (LangChain, LangGraph, RAG)</div>
+      <div>📂 SFTP/Web Data Automation</div>
+      <div>📈 ML Deployment (GCP, Vertex AI, AWS Lambda)</div>
+      <div>⚙️ ERPNext & Oracle Apex Integrations</div>
+      <div>📊 Sports Analytics & Betting Pipelines</div>
+      <div>🌐 Custom Slackbot Platforms</div>
+    </div>
+  </section>
+
   <section class="animate-slide-up">
     <h2 class="text-4xl font-bold mb-6 text-white">Highlighted Projects</h2>
     <div class="space-y-6">
@@ -44,6 +62,38 @@ theme: minima
       </div>
     </div>
   </section>
+
+  <section class="bg-gray-800 p-8 rounded-2xl shadow-xl animate-fade-in">
+    <h2 class="text-4xl font-bold mb-6 text-white">Certifications</h2>
+    <ul class="list-disc list-inside text-gray-300 space-y-2 text-lg">
+      <li><a href="https://coursera.org/share/61c044f8655c37492e7619f3638a3259" class="text-blue-400 hover:underline">Data Science Math Skills – Coursera</a></li>
+      <li><a href="https://www.coursera.org/account/accomplishments/verify/ZHPGBQNJ654H" class="text-blue-400 hover:underline">Basic Image Classification with TensorFlow</a></li>
+      <li><a href="https://coursera.org/share/81c8ac306737608af1092b94429d1be9" class="text-blue-400 hover:underline">Google Cloud Big Data and ML Fundamentals</a></li>
+      <li><a href="https://www.coursera.org/account/accomplishments/verify/2R6USYR523LH" class="text-blue-400 hover:underline">Deep Learning with PyTorch: Segmentation</a></li>
+    </ul>
+  </section>
+
+  <section class="animate-slide-up">
+    <h2 class="text-4xl font-bold mb-6 text-white">Publications</h2>
+    <ul class="list-disc list-inside text-gray-300 space-y-2 text-lg">
+      <li><a href="https://doi.org/10.21015/vtcs.v10i2.1342" class="text-blue-400 hover:underline">Questgator: Text Classification & Aggregation Platform</a></li>
+      <li><a href="https://doi.org/10.21015/vtcs.v10i2.1311" class="text-blue-400 hover:underline">Business Growth Prediction Using Social Media</a></li>
+    </ul>
+  </section>
+
+  <section class="bg-gray-800 p-8 rounded-2xl shadow-xl animate-fade-in">
+    <h2 class="text-4xl font-bold mb-6 text-white">Testimonials</h2>
+    <div class="space-y-4">
+      <blockquote class="text-lg italic text-gray-300 border-l-4 border-blue-500 pl-4">“Babar’s Fleet Management cut our data collection and reporting time in half.” – Farid Uddin, CEO, OCLITS</blockquote>
+    </div>
+  </section>
+
+  <section class="animate-slide-up">
+    <h2 class="text-4xl font-bold mb-4 text-white">Get in Touch</h2>
+    <p class="text-lg text-gray-300">📧 <a href="mailto:babarburiro@gmail.com" class="text-blue-400 hover:underline">babarburiro@gmail.com</a></p>
+    <p class="text-lg text-gray-300">🔗 <a href="https://linkedin.com/in/babar-buriro-799434155" class="text-blue-400 hover:underline">LinkedIn</a></p>
+  </section>
+
 </main>
 
 <style>
