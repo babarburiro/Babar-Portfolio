@@ -10,10 +10,10 @@ theme: minima
 {% include header.html %}
 
 <body class="bg-gray-900 text-gray-100 font-sans">
-<header class="bg-gradient-to-br from-gray-800 to-gray-900 py-20 shadow-xl">
+<header class="bg-gradient-to-br from-gray-900 to-gray-950 py-20 shadow-xl">
   <div class="container mx-auto px-6 text-center animate-fade-in">
-    <h1 class="text-5xl md:text-7xl font-extrabold tracking-tight">Babar Ali</h1>
-    <p class="text-2xl mt-4 text-gray-400">Freelance AI Engineer | LLM Systems | Python & Automation</p>
+    <h1 class="text-5xl md:text-7xl font-extrabold tracking-tight text-white">Babar Ali</h1>
+    <p class="text-2xl mt-4 text-gray-300">Freelance AI Engineer | LLM Systems | Python & Automation</p>
     <a href="mailto:babarburiro@gmail.com" class="mt-8 inline-block bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-8 rounded-full transition-transform transform hover:scale-105">Hire Me</a>
   </div>
 </header>
@@ -22,7 +22,7 @@ theme: minima
 
   <section class="animate-slide-up">
     <h2 class="text-4xl font-bold mb-6 text-white">About Me</h2>
-    <p class="text-gray-300 text-lg leading-relaxed">I’m a freelance AI engineer with 3+ years of experience in LLM agents, RAG pipelines, ERP systems, and predictive modeling. I've worked remotely with teams in Pakistan, Singapore, and the U.S. to build AI-powered systems that solve real business problems. My stack includes Python, LangChain, Django, AWS, Oracle Apex, and more.</p>
+    <p class="text-gray-200 text-lg leading-relaxed">I’m a freelance AI engineer with 3+ years of experience in LLM agents, RAG pipelines, ERP systems, and predictive modeling. I've worked remotely with teams in Pakistan, Singapore, and the U.S. to build AI-powered systems that solve real business problems. My stack includes Python, LangChain, Django, AWS, Oracle Apex, and more.</p>
   </section>
 
   <section class="animate-fade-in bg-gray-800 p-8 rounded-2xl shadow-xl">
