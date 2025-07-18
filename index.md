@@ -1,11 +1,3 @@
----
-title: Babar Ali - Freelance AI Engineer
-email: babarburiro@gmail.com
-baseurl: ""
-url: "https://your-github-username.github.io"
-theme: minima
----
-
 {% include head.html %}
 {% include header.html %}
 
